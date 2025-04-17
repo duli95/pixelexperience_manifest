@@ -22,6 +22,10 @@
           fetch="https://github.com/doanvtamhuynh"
           revision="thirteen" />
 
+    <remote name="lineage"
+        fetch="https://github.com/LineageOS"
+        revision="lineage-20.0" />
+
   <!-- External repos -->
   <project path="external/avb" name="external_avb" remote="pixel" />
   <project path="external/boringssl" name="external_boringssl" remote="pixel" />
