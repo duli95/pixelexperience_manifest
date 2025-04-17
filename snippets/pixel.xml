@@ -18,12 +18,12 @@
           fetch="https://github.com/PixelExperience-Blobs"
           revision="thirteen" />
 
-    <remote name="pixel-new"
+    <remote name="pixel-fork"
           fetch="https://github.com/doanvtamhuynh"
           revision="thirteen" />
 
-    <remote name="lineage"
-        fetch="https://github.com/LineageOS"
+    <remote name="lineage-fork"
+        fetch="https://github.com/doanvtamhuynh"
         revision="lineage-20.0" />
 
   <!-- External repos -->
@@ -49,7 +49,7 @@
 
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="pixel" />
-  <project path="frameworks/base" name="frameworks_base" remote="pixel-new" />
+  <project path="frameworks/base" name="frameworks_base" remote="pixel-fork" />
   <project path="frameworks/native" name="frameworks_native" remote="pixel" />
   <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="pixel" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="pixel" />
@@ -120,7 +120,7 @@
   <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" remote="pixel" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="pixel" />
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="pixel" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="pixel-new" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="pixel-fork" />
   <project path="packages/apps/Stk" name="packages_apps_Stk" remote="pixel" />
   <project path="packages/apps/Traceur" name="packages_apps_Traceur" remote="pixel" />
   <project path="packages/modules/adb" name="packages_modules_adb" remote="pixel" />
