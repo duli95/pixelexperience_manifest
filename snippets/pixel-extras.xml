@@ -16,6 +16,7 @@
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="pixel" />
   <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="pixel" />
   <project path="vendor/binary" name="vendor_binary" remote="pixel-fork" />
+  <project path="vendor/supportapp" name="vendor_supportapp" remote="pixel-fork" />
 
   <!-- Hardware repos -->
   <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="pixel" />
