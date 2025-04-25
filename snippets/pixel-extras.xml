@@ -4,7 +4,7 @@
   <!-- External repos -->
   <project path="external/faceunlock" name="external_faceunlock" remote="pixel-fork" />
   <project path="external/bson" name="external_bson" remote="pixel" />
-  <project path="external/connectivity" name="external_connectivity" remote="pixel" />
+  <project path="external/connectivity" name="external_connectivity" remote="pixel-fork" />
   <project path="external/json-c" name="external_json-c" remote="pixel" />
   <project path="external/ntfs-3g" name="external_ntfs-3g" remote="pixel" />
   <project path="external/tinyxml" name="external_tinyxml" remote="pixel" />
