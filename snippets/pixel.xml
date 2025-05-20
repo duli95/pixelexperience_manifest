@@ -29,6 +29,7 @@
   <!-- External repos -->
   <project path="external/avb" name="external_avb" remote="pixel" />
   <project path="external/boringssl" name="external_boringssl" remote="pixel" />
+  <project path="external/boringssl" name="external_bouncycastle" remote="pixel-fork" />
   <project path="external/cldr" name="external_cldr" remote="pixel" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="pixel" />
   <project path="external/dtc" name="external_dtc" remote="pixel" />
